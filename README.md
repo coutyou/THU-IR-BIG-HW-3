@@ -20,9 +20,13 @@
    `python PaperCrawler.py`
 
    **命令行参数：**
+  
    "-d", "--max-depth", type=int, default=5, help="max_depth"
+   
    "-t", "--tot-papers", type=int, default=10, help="tot_papers"
+   
    "-w", "--wait-time", type=int, default=2, help="wait_time"
+   
    "-i", "--init-url", type=str, default="https://xueshu.baidu.com/usercenter/paper/show?paperid=3821a90f58762386e257eb4e6fa11f79"
 
 ## 文件结构
