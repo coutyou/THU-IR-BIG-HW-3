@@ -10,10 +10,13 @@
 ## 运行方式
 
 1. 需要安装**selenium**和**bs4**：
+   
    `pip install selenium bs4`
+   
    并且安装Chrome的驱动，可参考https://blog.csdn.net/su_2018/article/details/100127223
 
 2. **运行：**
+   
    `python PaperCrawler.py`
 
    **命令行参数：**
